@@ -1,2 +1,2 @@
 # Introduction-to-Data-Science
-IST 687
+This contains the class notes and Assignments for IST 687 at Syracuse University by Prof. Christopher Dunham
