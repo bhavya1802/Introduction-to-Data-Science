@@ -8,7 +8,8 @@ This contains the class notes and Assignments for IST 687 at Syracuse University
 4. Organize and manage data at various stages of a project lifecycle
 5. Determine appropriate techniques for analyzing data
 
-#Technologies and Concepts:
+# Technologies and Concepts:
+
 Technologies: R
 
 Concepts: Applied statistics, descriptive statistics, inferential statistics, visualization, map data, data munging, Linear modeling, classification, text mining, clustering, machine learning, associative rule mining, support vector machines
