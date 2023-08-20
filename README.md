@@ -1,5 +1,5 @@
 # Introduction-to-Data-Science
-This contains the class notes and Assignments for IST 687 at Syracuse University by Prof. Christopher Dunham
+This contains the Assignments for IST 687 at Syracuse University by Prof. Christopher Dunham
 
 # Key Learnings:
 1. Identify a problem and the data needed for addressing the problem.
