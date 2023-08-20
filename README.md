@@ -10,4 +10,5 @@ This contains the class notes and Assignments for IST 687 at Syracuse University
 
 #Technologies and Concepts:
 Technologies: R
+
 Concepts: Applied statistics, descriptive statistics, inferential statistics, visualization, map data, data munging, Linear modeling, classification, text mining, clustering, machine learning, associative rule mining, support vector machines
